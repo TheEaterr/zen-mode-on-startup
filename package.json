@@ -3,6 +3,7 @@
   "displayName": "Zen mode on Startup",
   "description": "This extension automatically puts vscode in zen mode on startup.",
   "version": "0.0.1",
+  "repository": "https://github.com/TheEaterr/zen-mode-on-startup",
   "engines": {
     "vscode": "^1.84.0"
   },
